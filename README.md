@@ -11,7 +11,6 @@ codesandbox 원본 주소 : https://codesandbox.io/s/class06-3qikei
 - : 목록
 
 ``` ~ ``` : 코드 블럭(backtick)
-
 ````
 
 ## 클라이언트 서버 모델
@@ -32,6 +31,23 @@ codesandbox 원본 주소 : https://codesandbox.io/s/class06-3qikei
   - Web FE Dev : 브라우저에서 처리되고 렌더링되는 언어를 사용해서 개발
   - 언어 : HTML, CSS, Javascript
 
-* BE Dev : 사용자가 보지 못하는 영역에서 데이터처리
+- BE Dev : 사용자가 보지 못하는 영역에서 데이터처리
   - 서버에서 처리되는 언어를 사용해서 개발
   - Java, PHP, Python, nodejs
+
+## naming 표기법
+- naming하는 경우
+- HTML/CSS : id, class
+- js : 변수, 함수
+- 파일, 폴더
+
+- 표기법의 의미
+  - 2개 단어 이상의 갯수로 naming을 할 때 단어와 단어 사이를 구분해야함
+  query selector
+
+- 표기법의 종류
+  - selection_content : snake case - 파일, 폴더
+  - selection_content : kebab case - id, class
+  - selection_content : camel case - js
+  - selection_content : pascal case - js의 class
+  - 파일, 폴더: 
