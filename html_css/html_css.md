@@ -25,15 +25,33 @@
 
 ```
 <tag> content </tag> : Element
-
 <tag ...> : Empty Element
 ```
 
 ## HTML Basic Structure
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body></body>
+</html>
+```
 
-### Head
+### DOCTYPE
 
-### Body
+- HTML 문서타입
+  - HTML 버전
+  - HTML5 표준
+
+### Head - 웹사이트 기본 정보
+
+- meta : 웹사이트 관련 정보(검색엔진)
+- title : 웹사이트 제목
+
+### Body - 웹사이트 컨텐츠
+ - 웹사이트에 Contents, structure... 표시하는 모든 태그
 
 ## HTML Contents
 
